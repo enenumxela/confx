@@ -1,0 +1,6 @@
+host: localhost
+port: 8080
+db:
+  postgres:
+    username: johndoe
+    password: johndoe123
