@@ -1,6 +1,6 @@
 # confx
 
-**`confx`** is a [go(golang)](http://golang.org/) package for application configuration management.
+confx is a [go(golang)](http://golang.org/) package for application configuration management.
 
 ## Resources
 
